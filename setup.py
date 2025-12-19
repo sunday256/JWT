@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="jwt-security-audit",
     version="0.1.0",
-    author="zebra-king", 
+    author="sunday256", 
     description="A professional JWT security vulnerability scanner",
     long_description=long_description,
     long_description_content_type="text/markdown",
