@@ -26,7 +26,7 @@ def setup_environment():
     
     # 添加必要的路径到Python路径
     paths_to_add = [
-        project_root,      # 项目根目录（Cryptography）
+        project_root,      # 项目根目录
         current_dir,       # jwt_audit目录
         src_dir,           # src源代码目录
     ]

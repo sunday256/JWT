@@ -7,12 +7,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="jwt-security-audit",
     version="0.1.0",
-    author="zebra-king",
-    author_email="your-email@example.com",  # 可选的
+    author="zebra-king", 
     description="A professional JWT security vulnerability scanner",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zebra-king/JWT",
+    url="https://github.com/sunday256/JWT",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
